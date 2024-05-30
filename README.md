@@ -69,6 +69,3 @@ Tableau is a Powerful Data Visualization Software that allows users to create In
 - Collaboration and Sharing
 
 ---
-### Different Plots used
-#### **Pie Chart**
-- 
